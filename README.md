@@ -1,0 +1,2 @@
+Hello, this is my personal profile I am creating with HTML, CSS, and JavaScript.
+This is mostly for me to brush up on the fundamentals, but to also be able to link it to my Linkedin once I publish the site online.
